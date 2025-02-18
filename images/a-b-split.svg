@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="202.29" height="74.118" viewBox="0 0 202.29 74.118">
+  <g id="Group_976" data-name="Group 976" transform="translate(14472.901 -2881.51)">
+    <g id="Group_975" data-name="Group 975" transform="translate(-14471.49 2892.07)">
+      <g id="Group_720" data-name="Group 720" transform="translate(0.001 0)">
+        <path id="Path_164" data-name="Path 164" d="M59.659,102.6V86.448c0-10.217,7.493-18.5,16.736-18.5h56.072c13.6,0,24.616-12.183,24.616-27.21" transform="translate(-57.35 -40.739)" fill="none" stroke="#35385d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_89" data-name="Line 89" x2="2.309" y2="2.552" transform="translate(0 59.593)" fill="none" stroke="#35385d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_90" data-name="Line 90" y1="2.552" x2="2.309" transform="translate(2.309 59.593)" fill="none" stroke="#35385d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+      <g id="Group_721" data-name="Group 721" transform="translate(99.733 0)">
+        <path id="Path_165" data-name="Path 165" d="M259.921,102.6V86.448c0-10.217-7.493-18.5-16.736-18.5H187.113c-13.6,0-24.616-12.183-24.616-27.21" transform="translate(-162.497 -40.739)" fill="none" stroke="#35385d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_91" data-name="Line 91" x1="2.309" y2="2.552" transform="translate(97.425 59.593)" fill="none" stroke="#35385d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_92" data-name="Line 92" x1="2.309" y1="2.552" transform="translate(95.116 59.593)" fill="none" stroke="#35385d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Ellipse_102" data-name="Ellipse 102" transform="translate(-14375.036 2881.51)" fill="none" stroke="#35375d" stroke-width="2">
+      <ellipse cx="3.28" cy="3.28" rx="3.28" ry="3.28" stroke="none"/>
+      <ellipse cx="3.28" cy="3.28" rx="2.28" ry="2.28" fill="none"/>
+    </g>
+  </g>
+</svg>

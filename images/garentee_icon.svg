@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="98" viewBox="0 0 72 98">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_896" data-name="Rectangle 896" width="72" height="98" transform="translate(-0.443 0.14)" fill="none" stroke="#f0398c" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1188" data-name="Group 1188" transform="translate(0.443 -0.14)">
+    <path id="Path_217" data-name="Path 217" d="M13,22.178l6.133,6.133L31.4,14" transform="translate(13.578 14.623)" fill="none" stroke="#f0398c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g id="Group_1187" data-name="Group 1187" transform="translate(0 0)">
+      <g id="Group_1186" data-name="Group 1186" clip-path="url(#clip-path)">
+        <path id="Path_218" data-name="Path 218" d="M42.685,4.294h0a11.246,11.246,0,0,0,7.951,3.294A11.244,11.244,0,0,1,61.881,18.832a11.246,11.246,0,0,0,3.294,7.951,11.244,11.244,0,0,1,0,15.9,11.253,11.253,0,0,0-3.294,7.951A11.244,11.244,0,0,1,50.636,61.881a11.246,11.246,0,0,0-7.951,3.294,11.244,11.244,0,0,1-15.9,0,11.253,11.253,0,0,0-7.951-3.294A11.244,11.244,0,0,1,7.587,50.636a11.253,11.253,0,0,0-3.294-7.951,11.244,11.244,0,0,1,0-15.9,11.246,11.246,0,0,0,3.294-7.951A11.244,11.244,0,0,1,18.832,7.587a11.253,11.253,0,0,0,7.951-3.294A11.244,11.244,0,0,1,42.685,4.294Z" transform="translate(1.044 1.044)" fill="none" stroke="#f0398c" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_219" data-name="Path 219" d="M30.476,30.848,44.091,56.12,33.271,53.278l-3.58,10.6-11.1-20.6" transform="translate(19.423 32.221)" fill="none" stroke="#f0398c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_220" data-name="Path 220" d="M18.634,31.224l-13.2,24.5,10.819-2.84,3.58,10.6,7.391-13.719" transform="translate(5.674 32.613)" fill="none" stroke="#f0398c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <circle id="Ellipse_126" data-name="Ellipse 126" cx="19.5" cy="19.5" r="19.5" transform="translate(16.557 16.14)" fill="none" stroke="#f0398c" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

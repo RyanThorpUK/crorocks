@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="66" viewBox="0 0 66 66">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_907" data-name="Rectangle 907" width="66" height="66" transform="translate(0 0.412)" fill="none" stroke="#f1f5fc" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1218" data-name="Group 1218" transform="translate(0 -0.412)">
+    <g id="Group_1215" data-name="Group 1215">
+      <g id="Group_1214" data-name="Group 1214" clip-path="url(#clip-path)">
+        <path id="Path_276" data-name="Path 276" d="M37.565,58.115V22.252H48.191L29.6,1,11,22.252H21.626V58.115" transform="translate(3.611 0.328)" fill="none" stroke="#f1f5fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Line_203" data-name="Line 203" y1="2" transform="translate(25 63.412)" fill="none" stroke="#f1f5fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Line_204" data-name="Line 204" y1="30" transform="translate(36 35.412)" fill="none" stroke="#f1f5fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Line_205" data-name="Line 205" y1="16" transform="translate(31 49.412)" fill="none" stroke="#f1f5fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Line_206" data-name="Line 206" y1="2" transform="translate(41 63.412)" fill="none" stroke="#f1f5fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="Path_277" data-name="Path 277" d="M48.282,46.237V31.626H53.6L44.3,21,35,31.626h5.313V46.237" transform="translate(11.489 6.893)" fill="none" stroke="#f1f5fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+    <line id="Line_207" data-name="Line 207" y1="1" transform="translate(52 58.412)" fill="none" stroke="#f1f5fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_208" data-name="Line 208" y1="1" transform="translate(60 58.412)" fill="none" stroke="#f1f5fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_209" data-name="Line 209" y1="1" transform="translate(7 58.412)" fill="none" stroke="#f1f5fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_210" data-name="Line 210" y1="1" transform="translate(15 58.412)" fill="none" stroke="#f1f5fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g id="Group_1217" data-name="Group 1217">
+      <g id="Group_1216" data-name="Group 1216" clip-path="url(#clip-path)">
+        <path id="Path_278" data-name="Path 278" d="M14.282,46.237V31.626H19.6L10.3,21,1,31.626H6.313V46.237" transform="translate(0.328 6.893)" fill="none" stroke="#f1f5fc" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
