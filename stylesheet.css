@@ -383,14 +383,15 @@ section#section3 .note{
 	background-color: #fff;
 }
 section#section3 .note_box.box1{
-	top:27%;
+	top: 7%;
 	right: -10%;
 }
 
 section#section3 .note_box.box1 svg{
-top:40%;
-width: 200px;
+	top:40%;
+	width: 200px;
 }
+
 section#section3 .box2 .path{
 	stroke-dasharray: 1000;
   	stroke-dashoffset: 1000;
@@ -405,33 +406,37 @@ section#section3 .box4 .path{
 }
 
 section#section3 .note_box.box2{
-	top:63%;
+	top: 44%;
 	right: -15%;
 }
-section#section3 .note_box.box2 svg{
-top:30%;
-width: 230px;
-}
-section#section3 .note_box.box3{
-	top:23%;
-	left: -15%;
 
+section#section3 .note_box.box2 svg{
+	top:30%;
+	width: 230px;
 }
+
+section#section3 .note_box.box3{
+	top: 8%;
+	left: -15%;
+}
+
 section#section3 .note_box.box3 svg{
-top:50%;
-width: 180px;
-right: auto;
-left: 90%;
+	top:50%;
+	width: 180px;
+	right: auto;
+	left: 90%;
 }
+
 section#section3 .note_box.box4{
-	top:48%;
+	top:30%;
 	left: -20%;
 }
+
 section#section3 .note_box.box4 svg{
-top:50%;
-width: 450px;
-right: auto;
-left: 90%;
+	top:50%;
+	width: 450px;
+	right: auto;
+	left: 90%;
 }
 
 section#section4{
@@ -439,7 +444,6 @@ section#section4{
 	overflow-x: clip;
 	position: relative;
 	box-sizing: border-box;
-
 }
 
 section#section4 .text_wrapper{
@@ -488,18 +492,6 @@ section#section4 .bg_gradient{
 
 }
 
-.phone_image img{
-	width: 50%;
-
-}
-.phone_image img:first-child{
-	position: absolute;
-	left:-19%;
-}
-.phone_image img:last-child{
-	position: absolute;
-	right:-21%;
-}
 section#section5{
 	text-align: center;
 }
