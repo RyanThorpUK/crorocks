@@ -1,23 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-	<meta charset="UTF-8">
 
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<?php include 'partials/header.php'; ?>
 
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-
-
-	<link rel="stylesheet" href="stylesheet.css">
-	<link rel="stylesheet" href="responsive.css">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="dist/output.css" rel="stylesheet">
-
-</head>
 <body>
 	<div id="container">
 
@@ -113,7 +96,7 @@
 			<div class="px-8">
 				<div class="w-full max-w-3xl mx-auto text-center">
 					<span class="text-lg font-bold uppercase text-primary mb-4 block">Identifying Key changes</span>
-					<h2 class="text-4xl text-white font-bold mb-8">We analyse your eCommerce site and pinpoint areas for improvement.</h2>
+					<h2 class="text-4xl text-white font-bold mb-8">We analyse your eCommerce site and highlight areas for improvement.</h2>
 					<p class="text-lg text-white">As experts in eCommerce, we understand the importance of a well-produced website that not only attracts customers but also converts them into buyers. We'll identify key areas for improvement and provide actionable insights to help you drive sales and grow your business, on an ongoing, monthly basis.</p>
 				</div>
 				<div id="laptop_canvas" class="w-full">
@@ -571,8 +554,5 @@
 
 	</div>
 
-	<script src="gsap.min.js"></script>
-	<script src="ScrollTrigger.min.js"></script>
-	<script src="main.js"></script>
-</body>
-</html>
+	<?php include 'partials/footer.php'; ?>
+
